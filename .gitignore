@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 .env
 .env.*
 !.env.example
+=======
+# Environment variables
+.env
+.env.*
+src/.env
+>>>>>>> 9b7fe61f555891b3e4bdd855230e05a4d6e96013
